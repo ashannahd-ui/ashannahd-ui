@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**ashannahd-ui/ashannahd-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Ashannah Darlene 👋
 
-Here are some ideas to get you started:
+🎓 BSc. Computer Science Student
+📍 Fort Portal, Uganda
+💜 Passionate about Computing Fundamentals & Digital Logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm Learning
+- Number Systems & Conversions (Binary, Octal, Hex)
+- Logic Gates, Boolean Algebra & De Morgan's
+- Half Adder & Full Adder Design
+- Python for Fundamentals
+
+#### 🛠️ Projects
+- [Binary Converter](https://ashannahd-ui.github.io) - Step-by-step converter
+- Logic Gate Simulator - All 7 gates with truth tables
+- Full Adder Calculator - My deep-dive into adders!
+
+#### 📫 Reach me
+- Portfolio: https://ashannahd-ui.github.io
+- GitHub: @ashannahd-ui
+
+✨ Fun fact: STILL LEARNING MYSELF
